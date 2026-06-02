@@ -1,0 +1,7 @@
+ergocub_joint,quadruped_equivalent,role
+r_hip_pitch,front_right_hip_pitch / rear_right_hip_pitch,Leg forward-backward motion
+r_knee,front_right_knee / rear_right_knee,Leg flexion-extension
+r_ankle_pitch,front_right_ankle / rear_right_ankle,Foot orientation and ground contact adaptation
+l_hip_pitch,front_left_hip_pitch / rear_left_hip_pitch,Leg forward-backward motion
+l_knee,front_left_knee / rear_left_knee,Leg flexion-extension
+l_ankle_pitch,front_left_ankle / rear_left_ankle,Foot orientation and ground contact adaptation

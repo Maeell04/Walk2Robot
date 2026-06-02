@@ -1,0 +1,1 @@
+La V1 transforme les postures predites en commandes articulaires simplifiees pour une future integration robotique.
