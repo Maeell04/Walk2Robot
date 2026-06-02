@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>phase_marche_ros2</name>
+  <version>0.1.0</version>
+  <description>Noeuds ROS2 pour publier des caracteristiques de marche, predire une phase et produire une commande robotique simple.</description>
+  <maintainer email="etudiant@example.com">Equipe projet</maintainer>
+  <license>MIT</license>
+  <depend>rclpy</depend>
+  <depend>std_msgs</depend>
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>

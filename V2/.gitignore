@@ -1,0 +1,12 @@
+donnees_brutes/donnees_reelles/
+donnees_brutes/donnees_synth/
+donnees_brutes/manifest_donnees_synth.csv
+donnees_brutes/source_dataset.md
+donnees_brutes/jeu_donnees_hd_emg_imu/
+donnees_traitees/
+modeles/
+rapports/
+__pycache__/
+*.pyc
+venv/
+.venv/
